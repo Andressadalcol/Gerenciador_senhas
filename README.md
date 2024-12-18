@@ -1,2 +1,2 @@
-# Gerenciador_senhas
-Projeto de um gerenciador de senhas em Python.
+# Gerador_senhas
+Projeto de um gerador de senhas em Python.
